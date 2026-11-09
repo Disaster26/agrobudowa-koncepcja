@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 120 100">
+  <defs>
+    <clipPath id="w"><path d="M60 7 L23 33 V93 H97 V33 Z"/></clipPath>
+  </defs>
+  <g fill="#BEBEBE"><rect x="4" y="43" width="16" height="16" rx="1"/><rect x="4" y="61" width="16" height="16" rx="1"/><rect x="4" y="79" width="16" height="16" rx="1"/><rect x="100" y="43" width="16" height="16" rx="1"/><rect x="100" y="61" width="16" height="16" rx="1"/><rect x="100" y="79" width="16" height="16" rx="1"/></g>
+  <g clip-path="url(#w)">
+    <rect x="0" y="0" width="120" height="100" fill="#fff"/>
+    <path fill="#F48000" d="M0 0 H60 V24 C60 27 63 28 65 26 C69 22 75 25 75 30 C75 35 69 38 65 34 C63 32 60 33 60 36 V56 H48 C45 56 44 59 46 61 C50 65 47 71 42 71 C37 71 34 65 38 61 C40 59 39 56 36 56 H0 Z"/>
+    <path fill="#F48000" d="M60 56 H72 C75 56 76 53 74 51 C70 47 73 41 78 41 C83 41 86 47 82 51 C80 53 81 56 84 56 H120 V100 H60 V82 C60 79 57 78 55 80 C51 84 45 81 45 76 C45 71 51 68 55 72 C57 74 60 73 60 70 Z"/>
+  </g>
+    <path d="M3 41 L60 3 L117 41" fill="none" stroke="#F48000" stroke-width="5" stroke-linejoin="miter" stroke-linecap="square"/>
+  <path d="M60 7 L23 33 V93 H97 V33 Z" fill="none" stroke="#F48000" stroke-width="3"/>
+</svg>
